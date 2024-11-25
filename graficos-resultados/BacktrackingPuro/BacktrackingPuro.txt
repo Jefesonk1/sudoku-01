@@ -1,0 +1,480 @@
+Starting file processing...
+Processing: instances\95puzzles\p1.txt
+Sudoku solved successfully!
+Recursive Calls: 12625367
+Time: 1032182600 nanoseconds | 1032 milliseconds
+
+Processing: instances\95puzzles\p10.txt
+Sudoku solved successfully!
+Recursive Calls: 14468675
+Time: 1167006200 nanoseconds | 1167 milliseconds
+
+Processing: instances\95puzzles\p11.txt
+Sudoku solved successfully!
+Recursive Calls: 1122674
+Time: 93060300 nanoseconds | 93 milliseconds
+
+Processing: instances\95puzzles\p12.txt
+Sudoku solved successfully!
+Recursive Calls: 196465
+Time: 14744700 nanoseconds | 14 milliseconds
+
+Processing: instances\95puzzles\p13.txt
+Sudoku solved successfully!
+Recursive Calls: 78466
+Time: 6255600 nanoseconds | 6 milliseconds
+
+Processing: instances\95puzzles\p14.txt
+Sudoku solved successfully!
+Recursive Calls: 261221
+Time: 23206900 nanoseconds | 23 milliseconds
+
+Processing: instances\95puzzles\p15.txt
+Sudoku solved successfully!
+Recursive Calls: 7277187
+Time: 631986800 nanoseconds | 631 milliseconds
+
+Processing: instances\95puzzles\p16.txt
+Sudoku solved successfully!
+Recursive Calls: 1198385
+Time: 101941100 nanoseconds | 101 milliseconds
+
+Processing: instances\95puzzles\p17.txt
+Sudoku solved successfully!
+Recursive Calls: 8585881
+Time: 738835200 nanoseconds | 738 milliseconds
+
+Processing: instances\95puzzles\p18.txt
+Sudoku solved successfully!
+Recursive Calls: 3545056
+Time: 302068100 nanoseconds | 302 milliseconds
+
+Processing: instances\95puzzles\p19.txt
+Sudoku solved successfully!
+Recursive Calls: 575
+Time: 69600 nanoseconds | 0 milliseconds
+
+Processing: instances\95puzzles\p2.txt
+Sudoku solved successfully!
+Recursive Calls: 4405484
+Time: 356467800 nanoseconds | 356 milliseconds
+
+Processing: instances\95puzzles\p20.txt
+Sudoku solved successfully!
+Recursive Calls: 30092
+Time: 2438200 nanoseconds | 2 milliseconds
+
+Processing: instances\95puzzles\p21.txt
+Sudoku solved successfully!
+Recursive Calls: 6448928
+Time: 501886200 nanoseconds | 501 milliseconds
+
+Processing: instances\95puzzles\p22.txt
+Sudoku solved successfully!
+Recursive Calls: 283945
+Time: 17894300 nanoseconds | 17 milliseconds
+
+Processing: instances\95puzzles\p23.txt
+Sudoku solved successfully!
+Recursive Calls: 5703737
+Time: 481599400 nanoseconds | 481 milliseconds
+
+Processing: instances\95puzzles\p24.txt
+Sudoku solved successfully!
+Recursive Calls: 2001759
+Time: 203008200 nanoseconds | 203 milliseconds
+
+Processing: instances\95puzzles\p25.txt
+Sudoku solved successfully!
+Recursive Calls: 8195
+Time: 788100 nanoseconds | 0 milliseconds
+
+Processing: instances\95puzzles\p26.txt
+Sudoku solved successfully!
+Recursive Calls: 2337700
+Time: 197799600 nanoseconds | 197 milliseconds
+
+Processing: instances\95puzzles\p27.txt
+Sudoku solved successfully!
+Recursive Calls: 150562
+Time: 11703200 nanoseconds | 11 milliseconds
+
+Processing: instances\95puzzles\p28.txt
+Sudoku solved successfully!
+Recursive Calls: 455147
+Time: 39829100 nanoseconds | 39 milliseconds
+
+Processing: instances\95puzzles\p29.txt
+Sudoku solved successfully!
+Recursive Calls: 246052
+Time: 20388800 nanoseconds | 20 milliseconds
+
+Processing: instances\95puzzles\p3.txt
+Sudoku solved successfully!
+Recursive Calls: 126416
+Time: 10353100 nanoseconds | 10 milliseconds
+
+Processing: instances\95puzzles\p30.txt
+Sudoku solved successfully!
+Recursive Calls: 60808
+Time: 6325300 nanoseconds | 6 milliseconds
+
+Processing: instances\95puzzles\p31.txt
+Sudoku solved successfully!
+Recursive Calls: 119486
+Time: 10130900 nanoseconds | 10 milliseconds
+
+Processing: instances\95puzzles\p32.txt
+Sudoku solved successfully!
+Recursive Calls: 19629
+Time: 1722100 nanoseconds | 1 milliseconds
+
+Processing: instances\95puzzles\p33.txt
+Sudoku solved successfully!
+Recursive Calls: 25738
+Time: 2094500 nanoseconds | 2 milliseconds
+
+Processing: instances\95puzzles\p34.txt
+Sudoku solved successfully!
+Recursive Calls: 3905260
+Time: 277624700 nanoseconds | 277 milliseconds
+
+Processing: instances\95puzzles\p35.txt
+Sudoku solved successfully!
+Recursive Calls: 166310
+Time: 15222300 nanoseconds | 15 milliseconds
+
+Processing: instances\95puzzles\p36.txt
+Sudoku solved successfully!
+Recursive Calls: 9386774
+Time: 778897200 nanoseconds | 778 milliseconds
+
+Processing: instances\95puzzles\p37.txt
+Sudoku solved successfully!
+Recursive Calls: 331849
+Time: 29310800 nanoseconds | 29 milliseconds
+
+Processing: instances\95puzzles\p38.txt
+Sudoku solved successfully!
+Recursive Calls: 53591
+Time: 4232400 nanoseconds | 4 milliseconds
+
+Processing: instances\95puzzles\p39.txt
+Sudoku solved successfully!
+Recursive Calls: 1835557
+Time: 167093300 nanoseconds | 167 milliseconds
+
+Processing: instances\95puzzles\p4.txt
+Sudoku solved successfully!
+Recursive Calls: 503218
+Time: 43832000 nanoseconds | 43 milliseconds
+
+Processing: instances\95puzzles\p40.txt
+Sudoku solved successfully!
+Recursive Calls: 59960
+Time: 6267200 nanoseconds | 6 milliseconds
+
+Processing: instances\95puzzles\p41.txt
+Sudoku solved successfully!
+Recursive Calls: 146647809
+Time: 12728205700 nanoseconds | 12728 milliseconds
+
+Processing: instances\95puzzles\p42.txt
+Sudoku solved successfully!
+Recursive Calls: 597425
+Time: 45172600 nanoseconds | 45 milliseconds
+
+Processing: instances\95puzzles\p43.txt
+Sudoku solved successfully!
+Recursive Calls: 206367
+Time: 18296500 nanoseconds | 18 milliseconds
+
+Processing: instances\95puzzles\p44.txt
+Sudoku solved successfully!
+Recursive Calls: 18096
+Time: 1386700 nanoseconds | 1 milliseconds
+
+Processing: instances\95puzzles\p45.txt
+Sudoku solved successfully!
+Recursive Calls: 80972
+Time: 7317700 nanoseconds | 7 milliseconds
+
+Processing: instances\95puzzles\p46.txt
+Sudoku solved successfully!
+Recursive Calls: 10043353
+Time: 889281600 nanoseconds | 889 milliseconds
+
+Processing: instances\95puzzles\p47.txt
+Sudoku solved successfully!
+Recursive Calls: 567830
+Time: 54219200 nanoseconds | 54 milliseconds
+
+Processing: instances\95puzzles\p48.txt
+Sudoku solved successfully!
+Recursive Calls: 154948
+Time: 12136000 nanoseconds | 12 milliseconds
+
+Processing: instances\95puzzles\p49.txt
+Sudoku solved successfully!
+Recursive Calls: 526501
+Time: 45255300 nanoseconds | 45 milliseconds
+
+Processing: instances\95puzzles\p5.txt
+Sudoku solved successfully!
+Recursive Calls: 124635055
+Time: 12461752800 nanoseconds | 12461 milliseconds
+
+Processing: instances\95puzzles\p50.txt
+Sudoku solved successfully!
+Recursive Calls: 1588984
+Time: 128996100 nanoseconds | 128 milliseconds
+
+Processing: instances\95puzzles\p51.txt
+Sudoku solved successfully!
+Recursive Calls: 1918009
+Time: 155777900 nanoseconds | 155 milliseconds
+
+Processing: instances\95puzzles\p52.txt
+Sudoku solved successfully!
+Recursive Calls: 317690
+Time: 27196800 nanoseconds | 27 milliseconds
+
+Processing: instances\95puzzles\p53.txt
+Sudoku solved successfully!
+Recursive Calls: 7313
+Time: 592300 nanoseconds | 0 milliseconds
+
+Processing: instances\95puzzles\p54.txt
+Sudoku solved successfully!
+Recursive Calls: 21309
+Time: 1711400 nanoseconds | 1 milliseconds
+
+Processing: instances\95puzzles\p55.txt
+Sudoku solved successfully!
+Recursive Calls: 1140074
+Time: 90365700 nanoseconds | 90 milliseconds
+
+Processing: instances\95puzzles\p56.txt
+Sudoku solved successfully!
+Recursive Calls: 147645
+Time: 13178100 nanoseconds | 13 milliseconds
+
+Processing: instances\95puzzles\p57.txt
+Sudoku solved successfully!
+Recursive Calls: 266487
+Time: 22313600 nanoseconds | 22 milliseconds
+
+Processing: instances\95puzzles\p58.txt
+Sudoku solved successfully!
+Recursive Calls: 1228146
+Time: 89180900 nanoseconds | 89 milliseconds
+
+Processing: instances\95puzzles\p59.txt
+Sudoku solved successfully!
+Recursive Calls: 155949
+Time: 13439600 nanoseconds | 13 milliseconds
+
+Processing: instances\95puzzles\p6.txt
+Sudoku solved successfully!
+Recursive Calls: 353908
+Time: 31344200 nanoseconds | 31 milliseconds
+
+Processing: instances\95puzzles\p60.txt
+Sudoku solved successfully!
+Recursive Calls: 24222
+Time: 2391700 nanoseconds | 2 milliseconds
+
+Processing: instances\95puzzles\p61.txt
+Sudoku solved successfully!
+Recursive Calls: 65243
+Time: 5330100 nanoseconds | 5 milliseconds
+
+Processing: instances\95puzzles\p62.txt
+Sudoku solved successfully!
+Recursive Calls: 6003383
+Time: 520966000 nanoseconds | 520 milliseconds
+
+Processing: instances\95puzzles\p63.txt
+Sudoku solved successfully!
+Recursive Calls: 354300
+Time: 31181000 nanoseconds | 31 milliseconds
+
+Processing: instances\95puzzles\p64.txt
+Sudoku solved successfully!
+Recursive Calls: 4498572
+Time: 401344100 nanoseconds | 401 milliseconds
+
+Processing: instances\95puzzles\p65.txt
+Sudoku solved successfully!
+Recursive Calls: 3056
+Time: 324200 nanoseconds | 0 milliseconds
+
+Processing: instances\95puzzles\p66.txt
+Sudoku solved successfully!
+Recursive Calls: 559475
+Time: 44534000 nanoseconds | 44 milliseconds
+
+Processing: instances\95puzzles\p67.txt
+Sudoku solved successfully!
+Recursive Calls: 91352
+Time: 7573800 nanoseconds | 7 milliseconds
+
+Processing: instances\95puzzles\p68.txt
+Sudoku solved successfully!
+Recursive Calls: 81924
+Time: 6669000 nanoseconds | 6 milliseconds
+
+Processing: instances\95puzzles\p69.txt
+Sudoku solved successfully!
+Recursive Calls: 681773
+Time: 59116200 nanoseconds | 59 milliseconds
+
+Processing: instances\95puzzles\p7.txt
+Sudoku solved successfully!
+Recursive Calls: 9650972
+Time: 739398300 nanoseconds | 739 milliseconds
+
+Processing: instances\95puzzles\p70.txt
+Sudoku solved successfully!
+Recursive Calls: 2820389
+Time: 217135700 nanoseconds | 217 milliseconds
+
+Processing: instances\95puzzles\p71.txt
+Sudoku solved successfully!
+Recursive Calls: 30091728
+Time: 2362678600 nanoseconds | 2362 milliseconds
+
+Processing: instances\95puzzles\p72.txt
+Sudoku solved successfully!
+Recursive Calls: 117686
+Time: 9567200 nanoseconds | 9 milliseconds
+
+Processing: instances\95puzzles\p73.txt
+Sudoku solved successfully!
+Recursive Calls: 683695
+Time: 49919300 nanoseconds | 49 milliseconds
+
+Processing: instances\95puzzles\p74.txt
+Sudoku solved successfully!
+Recursive Calls: 116392
+Time: 8958600 nanoseconds | 8 milliseconds
+
+Processing: instances\95puzzles\p75.txt
+Sudoku solved successfully!
+Recursive Calls: 59414
+Time: 4776200 nanoseconds | 4 milliseconds
+
+Processing: instances\95puzzles\p76.txt
+Sudoku solved successfully!
+Recursive Calls: 2548851
+Time: 225165800 nanoseconds | 225 milliseconds
+
+Processing: instances\95puzzles\p77.txt
+Sudoku solved successfully!
+Recursive Calls: 34767
+Time: 3137800 nanoseconds | 3 milliseconds
+
+Processing: instances\95puzzles\p78.txt
+Sudoku solved successfully!
+Recursive Calls: 727237
+Time: 54147800 nanoseconds | 54 milliseconds
+
+Processing: instances\95puzzles\p79.txt
+Sudoku solved successfully!
+Recursive Calls: 55643
+Time: 4456900 nanoseconds | 4 milliseconds
+
+Processing: instances\95puzzles\p8.txt
+Sudoku solved successfully!
+Recursive Calls: 7490815
+Time: 597560200 nanoseconds | 597 milliseconds
+
+Processing: instances\95puzzles\p80.txt
+Sudoku solved successfully!
+Recursive Calls: 124488
+Time: 11037000 nanoseconds | 11 milliseconds
+
+Processing: instances\95puzzles\p81.txt
+Sudoku solved successfully!
+Recursive Calls: 332320
+Time: 30131200 nanoseconds | 30 milliseconds
+
+Processing: instances\95puzzles\p82.txt
+Sudoku solved successfully!
+Recursive Calls: 193844
+Time: 15318900 nanoseconds | 15 milliseconds
+
+Processing: instances\95puzzles\p83.txt
+Sudoku solved successfully!
+Recursive Calls: 2125868
+Time: 183272700 nanoseconds | 183 milliseconds
+
+Processing: instances\95puzzles\p84.txt
+Sudoku solved successfully!
+Recursive Calls: 88695
+Time: 7780500 nanoseconds | 7 milliseconds
+
+Processing: instances\95puzzles\p85.txt
+Sudoku solved successfully!
+Recursive Calls: 60744
+Time: 5643600 nanoseconds | 5 milliseconds
+
+Processing: instances\95puzzles\p86.txt
+Sudoku solved successfully!
+Recursive Calls: 8168
+Time: 893100 nanoseconds | 0 milliseconds
+
+Processing: instances\95puzzles\p87.txt
+Sudoku solved successfully!
+Recursive Calls: 128348
+Time: 10044900 nanoseconds | 10 milliseconds
+
+Processing: instances\95puzzles\p88.txt
+Sudoku solved successfully!
+Recursive Calls: 52628
+Time: 4621200 nanoseconds | 4 milliseconds
+
+Processing: instances\95puzzles\p89.txt
+Sudoku solved successfully!
+Recursive Calls: 15225277
+Time: 1353144900 nanoseconds | 1353 milliseconds
+
+Processing: instances\95puzzles\p9.txt
+Sudoku solved successfully!
+Recursive Calls: 6645822
+Time: 504764500 nanoseconds | 504 milliseconds
+
+Processing: instances\95puzzles\p90.txt
+Sudoku solved successfully!
+Recursive Calls: 2234
+Time: 250400 nanoseconds | 0 milliseconds
+
+Processing: instances\95puzzles\p91.txt
+Sudoku solved successfully!
+Recursive Calls: 238839
+Time: 18219000 nanoseconds | 18 milliseconds
+
+Processing: instances\95puzzles\p92.txt
+Sudoku solved successfully!
+Recursive Calls: 25918
+Time: 2403200 nanoseconds | 2 milliseconds
+
+Processing: instances\95puzzles\p93.txt
+Sudoku solved successfully!
+Recursive Calls: 566291
+Time: 48440700 nanoseconds | 48 milliseconds
+
+Processing: instances\95puzzles\p94.txt
+Sudoku solved successfully!
+Recursive Calls: 938858
+Time: 71609300 nanoseconds | 71 milliseconds
+
+Processing: instances\95puzzles\p95.txt
+Sudoku solved successfully!
+Recursive Calls: 12596570
+Time: 1059723500 nanoseconds | 1059 milliseconds
+
+Processing complete!
+[ 1032182600, 1167006200, 93060300, 14744700, 6255600, 23206900, 631986800, 101941100, 738835200, 302068100, 69600, 356467800, 2438200, 501886200, 17894300, 481599400, 203008200, 788100, 197799600, 11703200, 39829100, 20388800, 10353100, 6325300, 10130900, 1722100, 2094500, 277624700, 15222300, 778897200, 29310800, 4232400, 167093300, 43832000, 6267200, 12728205700, 45172600, 18296500, 1386700, 7317700, 889281600, 54219200, 12136000, 45255300, 12461752800, 128996100, 155777900, 27196800, 592300, 1711400, 90365700, 13178100, 22313600, 89180900, 13439600, 31344200, 2391700, 5330100, 520966000, 31181000, 401344100, 324200, 44534000, 7573800, 6669000, 59116200, 739398300, 217135700, 2362678600, 9567200, 49919300, 8958600, 4776200, 225165800, 3137800, 54147800, 4456900, 597560200, 11037000, 30131200, 15318900, 183272700, 7780500, 5643600, 893100, 10044900, 4621200, 1353144900, 504764500, 250400, 18219000, 2403200, 48440700, 71609300, 1059723500,  ]
+
+Process finished with exit code 0

@@ -1,0 +1,1 @@
+DescribeResult(nobs=95, minmax=(array([0.2167]), array([16111.6688])), mean=array([1061.50412105]), variance=array([5704841.53095363]), skewness=array([3.78818386]), kurtosis=array([17.24629847]))
